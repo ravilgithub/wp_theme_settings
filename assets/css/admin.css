@@ -1,0 +1,12 @@
+/**
+*	Main theme settings admin styles.
+**/
+
+#bri_main_theme_settings table.form-table {
+	background-color: #fff;
+	margin-bottom: 20px;
+}
+
+#bri_main_theme_settings table.form-table th {
+	padding: 20px;
+}
